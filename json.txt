@@ -1,0 +1,98 @@
+[
+  {
+    "ten_mon_hoc": "Toán học",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Ngữ văn",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Vật lí",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Hóa học",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Sinh học",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Tin học",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Lịch sử",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Ngoại ngữ",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Giáo dục thể chất",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Giáo dục quốc phòng và an ninh",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Nội dung giáo dục của địa phương",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  },
+  {
+    "ten_mon_hoc": "Hoạt động trải nghiệm, hướng nghiệp",
+    "TX": [],
+    "GK": [],
+    "CK": [],
+    "TK": [],
+    "loai_nhap_diem": 1
+  }
+]
